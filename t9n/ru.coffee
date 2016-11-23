@@ -19,11 +19,11 @@ ru =
   forgotPassword: "Забыли пароль?"
   ifYouAlreadyHaveAnAccount: "Если у вас уже есть аккаунт"
   newPassword: "Новый пароль"
-  newPasswordAgain: "Новый пароль (еще раз)"
+  newPasswordAgain: "Новый пароль (ещё раз)"
   optional: "Необязательно"
   OR: "ИЛИ"
   password: "Пароль"
-  passwordAgain: "Пароль (еще раз)"
+  passwordAgain: "Пароль (ещё раз)"
   privacyPolicy: "Политики безопасности"
   remove: "Удалить"
   resetYourPassword: "Сбросить пароль"
@@ -44,8 +44,8 @@ ru =
 
   info:
     emailSent: "Email отправлен"
-    emailVerified: "Email прошел проверку"
-    passwordChanged: "Пароль изменен"
+    emailVerified: "Email прошёл проверку"
+    passwordChanged: "Пароль изменён"
     passwordReset: "Пароль сброшен"
 
 
@@ -70,15 +70,15 @@ ru =
       "Email already exists.": "Email уже существует"
       "Email doesn't match the criteria.": "Email не соответствует критериям."
       "Invalid login token": "Неверный токен для входа"
-      "Login forbidden": "Вход запрещен"
+      "Login forbidden": "Вход запрещён"
       #"Service " + options.service + " already configured":
       "Service unknown": "Сервис неизвестен"
       "Unrecognized options for login request": "Неизвестные параметры для запроса входа"
       "User validation failed": "Проверка пользователя неудалась"
       "Username already exists.": "Пользователь существует."
       "You are not logged in.": "Вы не вошли."
-      "You've been logged out by the server. Please log in again.": "Сервер инициировал выход. Пожалуйста войдите еще раз."
-      "Your session has expired. Please log in again.": "Ваша сессия устарела. Пожалуйста войдите еще раз."
+      "You've been logged out by the server. Please log in again.": "Сервер инициировал выход. Пожалуйста войдите ещё раз."
+      "Your session has expired. Please log in again.": "Ваша сессия устарела. Пожалуйста войдите ещё раз."
 
 
       #---- accounts-oauth
