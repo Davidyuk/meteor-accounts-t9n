@@ -72,7 +72,7 @@ ru =
       "Invalid login token": "Неверный токен для входа"
       "Login forbidden": "Вход запрещен"
       #"Service " + options.service + " already configured":
-      "Service unknown": "Cервис неизвестен"
+      "Service unknown": "Сервис неизвестен"
       "Unrecognized options for login request": "Неизвестные параметры для запроса входа"
       "User validation failed": "Проверка пользователя неудалась"
       "Username already exists.": "Пользователь существует."
