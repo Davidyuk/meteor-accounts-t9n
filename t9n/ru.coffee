@@ -40,6 +40,7 @@ ru =
   username: "Имя пользователя"
   usernameOrEmail: "Имя пользователя или email"
   with: "через"
+  "Required Field": "обязательное поле"
 
 
   info:
