@@ -17,7 +17,7 @@ ru =
   emailAddress: "Email"
   emailResetLink: "Отправить ссылку для сброса"
   forgotPassword: "Забыли пароль?"
-  ifYouAlreadyHaveAnAccount: "Если у вас уже есть аккаунт"
+  ifYouAlreadyHaveAnAccount: "Если у Вас уже есть аккаунт —"
   newPassword: "Новый пароль"
   newPasswordAgain: "Новый пароль (ещё раз)"
   optional: "Необязательно"
