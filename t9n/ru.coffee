@@ -41,6 +41,7 @@ ru =
   usernameOrEmail: "Имя пользователя или email"
   with: "через"
   "Required Field": "обязательное поле"
+  "Minimum required length: 6": "минимальная разрешённая длина — 6 символов"
   "Invalid email": "неправильный email"
 
 
