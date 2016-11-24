@@ -41,6 +41,7 @@ ru =
   usernameOrEmail: "Имя пользователя или email"
   with: "через"
   "Required Field": "обязательное поле"
+  "Invalid email": "неправильный email"
 
 
   info:
@@ -92,7 +93,6 @@ ru =
 
       #---- accounts-password
       "Incorrect password": "Неправильный пароль"
-      "Invalid email": "Несуществующий Email"
       "Must be logged in": "Необходимо войти"
       "Need to set a username or email": "Необходимо имя пользователя или email"
       "old password format": "старый формат пароля"
