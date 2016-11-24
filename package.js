@@ -5,8 +5,7 @@ Package.describe({
   git: "https://github.com/softwarerero/meteor-accounts-t9n.git",
 });
 
-DEFAULT_LANGUAGES = ['ar', 'ca', 'cs', 'da', 'de', 'el', 'en', 'es', 'et',
-  'es_ES', 'fa', 'fr', 'he', 'hr', 'hu', 'id', 'it', 'ja', 'kh', 'ko', 'nl', 'no_NB', 'pl', 'pt', 'pt_PT', 'ro', 'ru', 'sk', 'sl', 'sv', 'tr', 'uk', 'vi', 'zh_CN', 'zh_TW', 'zh_HK'];
+DEFAULT_LANGUAGES = ['ru'];
 
 LANGUAGES = DEFAULT_LANGUAGES;
 if(process.env.T9N_LANGUAGES) {
