@@ -94,7 +94,7 @@ ru =
 
       #---- accounts-password
       "Incorrect password": "Неправильный пароль"
-      "Must be logged in": "Необходимо войти"
+      "Must be logged in": "Чтобы продолжить, необходимо войти"
       "Need to set a username or email": "Необходимо имя пользователя или email"
       "old password format": "старый формат пароля"
       "Password may not be empty": "Пароль не может быть пустым"
