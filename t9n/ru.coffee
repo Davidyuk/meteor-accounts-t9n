@@ -71,7 +71,7 @@ ru =
       "Email already exists.": "Email уже существует"
       "Email doesn't match the criteria.": "Email не соответствует критериям."
       "Invalid login token": "Неверный токен для входа"
-      "Login forbidden": "Вход запрещён"
+      "Login forbidden": "Неверное имя пользователя или пароль"
       #"Service " + options.service + " already configured":
       "Service unknown": "Сервис неизвестен"
       "Unrecognized options for login request": "Неизвестные параметры для запроса входа"
